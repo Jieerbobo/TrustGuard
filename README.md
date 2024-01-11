@@ -3,6 +3,6 @@ Jie Wang, Zheng Yan, Jiahe Lan, Elisa Bertino, Witold Pedrycz, "[TrustGuard: GNN
 
 
 ## Model architecture
-<img src="./TrustGuard architecture.png" width="40%">
+<img src="./TrustGuard architecture.png" width="45%">
 
 The source code will be available before February 2024.
