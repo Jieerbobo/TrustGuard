@@ -3,7 +3,7 @@ Jie Wang, Zheng Yan, Jiahe Lan, Elisa Bertino, Witold Pedrycz, "[TrustGuard: GNN
 
 
 ## Model architecture
-<img src="./TrustGuard architecture.png" width="50%">
+<img src="./TrustGuard architecture.png" width="45%">
 
 > TrustGuard is designed with a layered architecture that contains a snapshot input layer, a spatial aggregation layer, a temporal aggregation layer, and a prediction layer. In the snapshot input layer, a dynamic graph is segmented into a series of snapshots based on a time-driven strategy, and the snapshots are arranged in a chronological order for further analysis. The spatial aggregation layer focuses on the structural information (i.e., trust relationships) in each given snapshot to generate the spatial embedding of each node. It achieves this by aggregating information from the first-order and high-order neighbors of the node with the help of a defense mechanism, while also considering the dual roles of the node. Furthermore, the temporal aggregation layer is designed to capture temporal patterns from a sequence of snapshots. A position-aware attention mechanism is employed herein to learn attention scores, which indicate the importance of each timeslot to the target timeslot. By employing a weighted sum to the spatial embeddings calculated across all snapshots, we can obtain the final embedding of each node that contains both spatial and temporal features. In the prediction layer, a Multi-Layer Perception (MLP) is constructed to transform the final embeddings of any two nodes into a directed trust relationship.
 
