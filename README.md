@@ -31,15 +31,15 @@ python main.py
 ## How to cite
 If you find this work useful, please consider citing it as follows:
 ```bibtex
-    @ARTICLE{trustguard_tdsc,
-      author={Wang, Jie and Yan, Zheng and Lan, Jiahe and Bertino, Elisa and Pedrycz, Witold},
-      journal={IEEE Transactions on Dependable and Secure Computing}, 
-      title={TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support}, 
-      year={2024},
-      volume={},
-      number={},
-      pages={1-18},
-      doi={10.1109/TDSC.2024.3353548}}
+@ARTICLE{trustguard_tdsc,
+  author={Wang, Jie and Yan, Zheng and Lan, Jiahe and Bertino, Elisa and Pedrycz, Witold},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TDSC.2024.3353548}}
 ```
 
 ## Comments
