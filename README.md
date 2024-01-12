@@ -22,7 +22,7 @@ cd ./TrustGuard/code
 python main.py
 ```
 
-### Step 3: Further information
+### Further information
 * You can change the dataset, prediction tasks, and hyperparameters in arg_parser.py.
 * We randomly initialize node embeddings for simplicity. You can use [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754) to improve prediction performance.
 
