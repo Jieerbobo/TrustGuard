@@ -43,4 +43,4 @@ If you find this work useful, please consider citing it as follows:
 ```
 
 ## Comments
-If you have any questions about the code, Please feel free to ask here or contact me via email at <jwang1997@stu.xidian.edu.cn>. This work is designed based on [Guardian](https://github.com/wanyu-lin/INFOCOM2020-Guardian), [DySAT](https://github.com/FeiGSSS/DySAT_pytorch), and [GNNGuard](https://github.com/mims-harvard/GNNGuard). Thanks for their excellent work!
+If you have any questions about the code, please feel free to ask here or contact me via email at <jwang1997@stu.xidian.edu.cn>. This work is designed based on [Guardian](https://github.com/wanyu-lin/INFOCOM2020-Guardian), [DySAT](https://github.com/FeiGSSS/DySAT_pytorch), and [GNNGuard](https://github.com/mims-harvard/GNNGuard). Thanks for their excellent work!
