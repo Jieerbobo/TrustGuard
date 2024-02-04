@@ -27,6 +27,7 @@ python main.py
 ### Further information
 * You can change the dataset, prediction tasks, and hyperparameters in arg_parser.py.
 * We randomly initialize node embeddings for simplicity. You can use [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754) to improve prediction performance.
+* "bitcoinotc.csv", sourced from [SNAP dataset](https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html), is used for getting the snapshot's index at different timeslots. "bitcoinotc-rating.txt" is obtained by processing "bitcoinotc.csv". Specifically, in "bitcoinotc-rating.txt", the first two columns represent sourceID and targetID, respectively. The final two columns encode trust relationships using one-hot encoding: [1, 0] indicates a trusted relationship, and [0, 1] indicates a distrusted relationship. In addition, the data in "bitcoinotc-rating.txt" are in chronological order, with node indexes starting at 0. "bitcoinalpha-rating.txt" is obtained using the same setting.
 
 ## How to cite
 If you find this work useful, please consider citing it as follows:
