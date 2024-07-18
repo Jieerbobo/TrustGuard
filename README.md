@@ -1,4 +1,4 @@
-# Source code of TrustGuard
+# Source code of TrustGuard Published in IEEE TDSC
 Jie Wang, Zheng Yan, Jiahe Lan, Elisa Bertino, Witold Pedrycz, "[TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support](https://arxiv.org/pdf/2306.13339.pdf)," IEEE TDSC, 2024.
 
 
