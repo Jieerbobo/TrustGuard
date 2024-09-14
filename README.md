@@ -35,11 +35,11 @@ If you find this work useful, please consider citing it as follows:
 @ARTICLE{trustguard_tdsc,
   author={Wang, Jie and Yan, Zheng and Lan, Jiahe and Bertino, Elisa and Pedrycz, Witold},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
-  title={TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support}, 
+  title={TrustGuard: GNN-Based Robust and Explainable Trust Evaluation With Dynamicity Support}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-18},
+  volume={21},
+  number={5},
+  pages={4433-4450},
   doi={10.1109/TDSC.2024.3353548}}
 ```
 
